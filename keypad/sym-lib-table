@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name MX_Alps_Hybrid)(type Legacy)(uri "C:/Users/JOHNM/Desktop/00Key-master/pcb/kicad/libs/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name promicro)(type Legacy)(uri C:/Users/JOHNM/Desktop/Keypad_Matrix/ProMicroKiCad-master/promicro_library/promicro.lib)(options "")(descr ""))
+)
